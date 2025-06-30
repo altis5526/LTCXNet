@@ -32,8 +32,12 @@ These scripts were added at the last minute for extra experiments. Their usefuln
 - `run_batch_*.py` – scripts to run fairness experiments
 - `v*_test_fairness.py` – scripts for testing fairness
 - `v*_check_fairness.py` – scripts for checking fairness results  
-  *(Note: Each version serves a different purpose, but I forgot exact purpose.)*
+  *(v9 works for LTCXNet, v10 works for comparing methods)*
 
 ---
+
+### 5. Data/Weights Source
+1. As for data source, please refer to [CXR-LT](https://physionet.org/content/cxr-lt-iccv-workshop-cvamd/2.0.0/miccai-2023_mimic-cxr-lt/#files-panel) and find the "miccai-2023_mimic-cxr-lt" folder. You could ask for our randomly subsampled dataset by email and show that you pass the PhysioNet certificate after our work is published to reproduce our results.
+2. As for weight source, please download from [weights](https://drive.google.com/drive/folders/1_r7jMO5rLFhwBsUHjM8w5RptYosa7k6Z?usp=sharing)
 
 
