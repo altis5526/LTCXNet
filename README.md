@@ -1,4 +1,6 @@
-## Project File Overview
+## LTCXNet
+This is the official repository of the MICCAI 2025 Workshop (FAIMI 2025) paper "LTCXNet: Tackling Long-Tailed Multi-Label Classification and Racial Bias in Chest X-Ray Analysis".
+
 
 ### 1. Batch Experiment Files
 - **Main batch scripts**:  
